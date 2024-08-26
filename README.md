@@ -8,11 +8,11 @@
 
 ## **Contact**
 
-* **<img src="[Images2/Phone Image.jpg]" style="vertical-align: middle; margin-left: 5px;"/>:** 9073395920 
-* **<img src="Images2/Linkedin.png" style="vertical-align: middle; margin-left: 5px;"/>:** linkedin.com/in/Debojyoti-Balial
-* **<img src="Images2/github-mark.png" style="vertical-align: middle; margin-left: 5px;"/>:** github.com/Dbalial
-* **<img src="Images2/website.jfif" style="vertical-align: middle; margin-left: 5px;"/>:** Dbalial.github.io 
-* **<img src="Images2/LOcation.jfif" style="vertical-align: middle; margin-left: 5px;"/>:** Kolkata, West Bengal
+* **<img src="Images2/Phone Image.jpg" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 50px;"/>**  (9073395920) 
+* **<img src="Images2/Linkedin.png" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 50px;"/>**  linkedin.com/in/Debojyoti-Balial
+* **<img src="Images2/github-mark.png" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 50px;"/>**  github.com/Dbalial
+* **<img src="Images2/website.jfif" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 50px;"/>**  Dbalial.github.io 
+* **<img src="Images2/LOcation.jfif" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 50px;"/>**  Kolkata, West Bengal
 
 ---
 
