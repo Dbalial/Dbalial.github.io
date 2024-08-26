@@ -8,11 +8,11 @@
 
 ## **Contact**
 
-- **Mobile:** (Insert your mobile number here) <img src="https://www.flaticon.com/" alt="Phone Icon" style="vertical-align: middle; margin-left: 5px;"/>
-- **LinkedIn:** [Insert your LinkedIn profile URL here] <img src="https://fontawesome.com/icons/linkedin" alt="LinkedIn Icon" style="vertical-align: middle; margin-left: 5px;"/>
-- **GitHub:** [Insert your GitHub profile URL here] <img src="https://fontawesome.com/icons/github" alt="GitHub Icon" style="vertical-align: middle; margin-left: 5px;"/>
-- **Website:** [Insert your website URL here] <img src="https://www.flaticon.com/icons?word=globe" alt="Globe Icon" style="vertical-align: middle; margin-left: 5px;"/>
-- **Location:** Kolkata, West Bengal <img src="https://www.flaticon.com/" alt="Location Icon" style="vertical-align: middle; margin-left: 5px;"/>
+- **<img src="[https://github.com/Dbalial/Dbalial.github.io/blob/main/Images2/Phone%20Image.jpg]" alt="Phone Icon" style="vertical-align: middle; margin-left: 5px;"/>:** (9073395920) 
+- **<img src="https://github.com/Dbalial/Dbalial.github.io/blob/main/Images2/Linkedin.png" alt="LinkedIn Icon" style="vertical-align: middle; margin-left: 5px;"/>:** [linkedin.com/in/Debojyoti-Balial] 
+- **<img src="https://github.com/Dbalial" alt="GitHub Icon" style="vertical-align: middle; margin-left: 5px;"/>:** [Insert your GitHub profile URL here] 
+- **<img src="https://github.com/Dbalial/Dbalial.github.io/blob/main/Images2/LOcation.jfif" alt="Globe Icon" style="vertical-align: middle; margin-left: 5px;"/>:** [Insert your website URL here] 
+- **<img src="https://github.com/Dbalial/Dbalial.github.io/blob/main/Images2/LOcation.jfif" style="vertical-align: middle; margin-left: 5px;"/>:** Kolkata, West Bengal
 
 ---
 
