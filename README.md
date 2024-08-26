@@ -2,17 +2,17 @@
 
 **Welcome to my portfolio!**
 
-![Professional Headshot](#) <!-- Replace '#' with the actual path to your image -->
+<img src="#" alt="Professional Headshot" style="float: left; margin-right: 20px;" /> <!-- Replace '#' with the actual path to your image -->
 
 ---
 
 ## **Contact**
 
-- **Mobile:** (Insert your mobile number here) ![Phone Icon](https://www.flaticon.com/)
-- **LinkedIn:** [Insert your LinkedIn profile URL here] ![LinkedIn Icon](https://fontawesome.com/icons/linkedin)
-- **GitHub:** [Insert your GitHub profile URL here] ![GitHub Icon](https://fontawesome.com/icons/github)
-- **Website:** [Insert your website URL here] ![Globe Icon](https://www.flaticon.com/icons?word=globe)
-- **Location:** Kolkata, West Bengal ![Location Icon](https://www.flaticon.com/)
+- **Mobile:** (Insert your mobile number here) <img src="https://www.flaticon.com/" alt="Phone Icon" style="vertical-align: middle; margin-left: 5px;"/>
+- **LinkedIn:** [Insert your LinkedIn profile URL here] <img src="https://fontawesome.com/icons/linkedin" alt="LinkedIn Icon" style="vertical-align: middle; margin-left: 5px;"/>
+- **GitHub:** [Insert your GitHub profile URL here] <img src="https://fontawesome.com/icons/github" alt="GitHub Icon" style="vertical-align: middle; margin-left: 5px;"/>
+- **Website:** [Insert your website URL here] <img src="https://www.flaticon.com/icons?word=globe" alt="Globe Icon" style="vertical-align: middle; margin-left: 5px;"/>
+- **Location:** Kolkata, West Bengal <img src="https://www.flaticon.com/" alt="Location Icon" style="vertical-align: middle; margin-left: 5px;"/>
 
 ---
 
@@ -37,11 +37,11 @@ I am a highly motivated Analyst with 5+ years of experience in various aspects o
 ## **Projects**
 
 ### Project 1
-![Project Image](#) <!-- Replace '#' with the actual path to your image -->
+<img src="#" alt="Project Image" style="float: left; margin-right: 20px;" /> <!-- Replace '#' with the actual path to your image -->
 **Description:** (Describe the project)
 
 ### Project 2
-![Project Image](#) <!-- Replace '#' with the actual path to your image -->
+<img src="#" alt="Project Image" style="float: left; margin-right: 20px;" /> <!-- Replace '#' with the actual path to your image -->
 **Description:** (Describe the project)
 
 ---
