@@ -101,12 +101,14 @@ I am a highly motivated Analyst with 5+ years of experience in various aspects o
 
 ## **Portfolio Projects** 
 
-### Project 1: <img src="Images2/Unilever Image.jfif" style="float: left; margin-right: 50px;" />[Unilever Canteen Ordering System (CBAP)](https://github.com/Dbalial/CBAP_Canteen-Ordering-System-for-Unilever)
+<img src="Images2/Unilever Image.jfif" style="float: left; margin-right: 20px;" /> 
+### Project 1: [Unilever Canteen Ordering System (CBAP)](https://github.com/Dbalial/CBAP_Canteen-Ordering-System-for-Unilever)
 
 **Description:** Unilever's current canteen system is inefficient, leading to long wait times, food wastage, and low employee satisfaction. The company seeks to implement a Canteen Ordering System to streamline the ordering process, reduce wait times, and improve employee satisfaction.
 **
 
-### Project 2: <img src="Images2/Stanford library.avif" style="float: left; margin-right: 20px;" />[Library Management System for Stanford (CBAP)](https://github.com/Dbalial/CBAP_Library-Management-System-for-Stanford)
+<img src="Images2/Stanford library.avif" style="float: left; margin-right: 5px;" />
+### Project 2: [Library Management System for Stanford (CBAP)](https://github.com/Dbalial/CBAP_Library-Management-System-for-Stanford)
 
 **Description:** Stanford University's current manual library system is inefficient and time-consuming, leading to challenges in managing a vast collection of books and providing timely services to students. The university seeks to automate library operations through a Library Management System (LMS) to improve efficiency, accuracy, and accessibility.
 
