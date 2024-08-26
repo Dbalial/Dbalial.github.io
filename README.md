@@ -2,7 +2,7 @@
 
 
 
-<img src="Images2/My_image2.jpg" style="float: left; margin-right: 5px;" />
+<img src="Images2/My_image2.jpg" style="width: 30px; height: 30px; vertical-align: middle; margin-left: 5px;" />
 
 
 
