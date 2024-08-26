@@ -26,12 +26,12 @@ I am a highly motivated Analyst with 5+ years of experience in various aspects o
 
 ## **Education**
 
-* **MBA**,
-    - Marketing     2013 -2015
+* **MBA**  2013 -2015
+    - Marketing     
     - Institute - Eastern Institute For Integrated Learning In Management
 
-* **B.Sc**,
-    - Economics    2009-2012
+* **B.Sc**  2009-2012 
+    - Economics    
     - Institute - Dinabandhu Andrews College
     - University - Calcutta University
 
