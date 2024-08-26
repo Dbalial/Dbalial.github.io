@@ -1,24 +1,66 @@
-**Welcome!**
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analyst Portfolio</title>
+   
+        body {
+            font-family: Arial, sans-serif;
+        }
 
+        .container {
+            display: flex;
+        }
 
+        .left-side {
+            width: 30%;
+            padding-right: 20px;
+        }
 
-<img src="#" alt="Professional Headshot" style="float: left; margin-right: 20px;" /> <!-- Replace '#' with the actual path to your image -->
+        .right-side {
+            width: 70%;
+        }
 
+        .contact-info {
+            margin-top: 20px;
+        }
 
+        .contact-info img {
+            width: 20px;
+            height: 20px;
+            vertical-align: middle;
+            margin-left: 5px;
+        }
+    </style>
+</head>
+<body>
 
----
+<div class="container">
+    <div class="left-side">
+        <h1>Debojyoti Balial</h1>
+        <a href="https://github.com/Dbalial">View My GitHub Profile</a>
+        <div class="contact-info">
+            <h2>Welcome!</h2>
+            <img src="#" alt="Professional Headshot" style="float: left; margin-right: 20px;" /> <!-- Replace '#' with the actual path to your image -->
+            <hr/>
+            <h3>Contact</h3>
+            <p>
+                <img src="Images2/Phone Image.jpg"/>  9073395920<br>
+                <img src="Images2/Linkedin.png"/>  <a href="https://linkedin.com/in/Debojyoti-Balial">linkedin.com/in/Debojyoti-Balial</a><br>
+                <img src="Images2/github-mark.png"/>  <a href="https://github.com/Dbalial">github.com/Dbalial</a><br>
+                <img src="Images2/website.jfif"/>  <a href="https://Dbalial.github.io">Dbalial.github.io</a><br>
+                <img src="Images2/LOcation.jfif"/>  Kolkata, West Bengal
+            </p>
+        </div>
+    </div>
+    <div class="right-side">
+        <!-- Right-side content if any -->
+    </div>
+</div>
 
-## **Contact**
-
-* **<img src="Images2/Phone Image.jpg" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;"/>**  9073395920
-  
-* **<img src="Images2/Linkedin.png" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;"/>**  [linkedin.com/in/Debojyoti-Balial](linkedin.com/in/Debojyoti-Balial)
-  
-* **<img src="Images2/github-mark.png" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;"/>**  [github.com/Dbalial](github.com/Dbalial)
-  
-* **<img src="Images2/website.jfif" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;"/>**  Dbalial.github.io
-  
-* **<img src="Images2/LOcation.jfif" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;"/>**  Kolkata, West Bengal
+</body>
+</html>
 
 ---
 
