@@ -16,7 +16,7 @@
   
 * **<img src="Images2/github-mark.png" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;"/>**  [github.com/Dbalial](github.com/Dbalial)
   
-* **<img src="Images2/website.jfif" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;"/>**  Dbalial.github.io
+* **<img src="Images2/website.jfif" style="width: 40px; height: 40px; vertical-align: middle; margin-left: 5px;"/>**  Dbalial.github.io
   
 * **<img src="Images2/LOcation.jfif" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;"/>**  Kolkata, West Bengal
 
