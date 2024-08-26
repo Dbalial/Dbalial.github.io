@@ -8,11 +8,11 @@
 
 ## **Contact**
 
-- **<img src="[https://github.com/Dbalial/Dbalial.github.io/blob/main/Images2/Phone%20Image.jpg]" style="vertical-align: middle; margin-left: 5px;"/>:** (9073395920) 
-- **<img src="https://github.com/Dbalial/Dbalial.github.io/blob/main/Images2/Linkedin.png" style="vertical-align: middle; margin-left: 5px;"/>:** [linkedin.com/in/Debojyoti-Balial] 
-- **<img src="https://github.com/Dbalial" style="vertical-align: middle; margin-left: 5px;"/>:** [github.com/Dbalial] 
-- **<img src="https://github.com/Dbalial/Dbalial.github.io/blob/main/Images2/LOcation.jfif" style="vertical-align: middle; margin-left: 5px;"/>:** [Dbalial.github.io] 
-- **<img src="https://github.com/Dbalial/Dbalial.github.io/blob/main/Images2/LOcation.jfif" style="vertical-align: middle; margin-left: 5px;"/>:** Kolkata, West Bengal
+* **<img src="[Images2/Phone Image.jpg]" style="vertical-align: middle; margin-left: 5px;"/>:** (9073395920) 
+* **<img src="Images2/Linkedin.png" style="vertical-align: middle; margin-left: 5px;"/>:** [linkedin.com/in/Debojyoti-Balial] 
+* **<img src="https://github.com/Dbalial/Dbalial.github.io/blob/main/Images2/Github.png" style="vertical-align: middle; margin-left: 5px;"/>:** [github.com/Dbalial] 
+* **<img src="https://github.com/Dbalial/Dbalial.github.io/blob/main/Images2/World.png" style="vertical-align: middle; margin-left: 5px;"/>:** [Dbalial.github.io] 
+* **<img src="https://github.com/Dbalial/Dbalial.github.io/blob/main/Images2/LOcation.jfif" style="vertical-align: middle; margin-left: 5px;"/>:** Kolkata, West Bengal
 
 ---
 
