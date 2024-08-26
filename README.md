@@ -43,10 +43,10 @@ I am a highly motivated Analyst with 5+ years of experience in various aspects o
 
 ## **Work Experience**
 
-# **CHASE LIFESTYLE PRIVARE LIMITED** 
+### **CHASE LIFESTYLE PRIVARE LIMITED** 
 (June,2022 - May,2024)
   
-## Project 1 - Fulfilled by Styli:
+#### Project 1 - Fulfilled by Styli:
   * **Description:** Led a cross-functional team of 12 people to successfully introduce the "Miss Chase" brand in a new region through a dropship model.
   * **Key Achievements:**
       * Served as the primary point of contact for requirement gathering and stakeholder communication.
@@ -54,7 +54,7 @@ I am a highly motivated Analyst with 5+ years of experience in various aspects o
       * Negotiated contracts and successfully launched the brand in the MENA region.
       * Generated INR 6.5L in revenue during the first month of launch.
 
-## Project 2 - Nykaa Fashion Sales Analysis:
+#### Project 2 - Nykaa Fashion Sales Analysis:
   * **Description:** Conducted a comprehensive analysis of Nykaa Fashion's sales processes, marketing spend, pricing strategy, and visibility.
   * **Improvements Implemented:**
       * Streamlined the cataloging process to reduce delays.
@@ -63,10 +63,10 @@ I am a highly motivated Analyst with 5+ years of experience in various aspects o
       * Reduced order processing SLA breaches by 20%.
       * Established three Fulfillment Centers to improve delivery times based on sales data analysis.
 
-## Project 3 - Introduction of "Miss Chase A+" & "Life With Pockets":
+#### Project 3 - Introduction of "Miss Chase A+" & "Life With Pockets":
   * **Description:** Served as the primary point of contact for contract negotiation and updates to introduce "Miss Chase A+" and "Life With Pockets" on Nykaa Fashion, Tata CLiQ, and ShoppersStop.
   
-## Project 4 - Meesho:
+#### Project 4 - Meesho:
   * **Description:** Conducted a detailed analysis of order reports to understand sales trends and forecasting.
   * **Key Achievements:**
       * Analyzed and optimized existing advertisement campaigns on Meesho.
@@ -74,23 +74,23 @@ I am a highly motivated Analyst with 5+ years of experience in various aspects o
       * Introduced "Miss Chase" and "Dolce Crudo" on Meesho Mall.
       * Achieved a 7.5% increase in conversion rate and overall sales.
 
-## Project 5 - Baazar Kolkata:
+#### Project 5 - Baazar Kolkata:
   * **Description:** Conducted an analysis of existing sales operations to identify areas for improvement.
   * **Key Achievements:**
      * Developed and implemented new Standard Operating Procedures (SOPs).
      * Successfully adopted the SOPs by over 20 team members.
 
 
-# **NETSCRIBES (INDIA) PRIVATE LIMITED** 
+### **NETSCRIBES (INDIA) PRIVATE LIMITED** 
 (Feb,2019 to June,2022)
 
-## Project 1 - Flipkart UGC Moderation:
+#### Project 1 - Flipkart UGC Moderation:
   * **Description:** Conducted a comprehensive audit of operations and deliverables.
   * **Key Achievements:** 
       * Increased quality standards of deliverables by 30%.
       * Improved operational efficiency by 20%.
 
-## Project 2 - Flipkart Research
+#### Project 2 - Flipkart Research
   * **Description:**Conducted research on products, features, sellers, and pricing on Flipkart and Amazon websites.
   * **Purpose:** 
      * Identify opportunities to improve listing attributes.
@@ -101,13 +101,13 @@ I am a highly motivated Analyst with 5+ years of experience in various aspects o
 
 ## **Portfolio Projects** 
 
-### Project 1: [Unilever Canteen Ordering System (CBAP](https://github.com/Dbalial/CBAP_Canteen-Ordering-System-for-Unilever)
-<img src="Images2/Unilever Image.jfif" style="float: left; margin-right: 20px;" /> <!-- Replace '#' with the actual path to your image -->
+### Project 1: <img src="Images2/Unilever Image.jfif" style="float: left; margin-right: 50px;" />[Unilever Canteen Ordering System (CBAP)](https://github.com/Dbalial/CBAP_Canteen-Ordering-System-for-Unilever)
+
 **Description:** Unilever's current canteen system is inefficient, leading to long wait times, food wastage, and low employee satisfaction. The company seeks to implement a Canteen Ordering System to streamline the ordering process, reduce wait times, and improve employee satisfaction.
 **
 
-### Project 2: [Library Management System for Stanford (CBAP)](https://github.com/Dbalial/CBAP_Library-Management-System-for-Stanford)
-<img src="Images2/Stanford library.avif" style="float: left; margin-right: 20px;" />
+### Project 2: <img src="Images2/Stanford library.avif" style="float: left; margin-right: 20px;" />[Library Management System for Stanford (CBAP)](https://github.com/Dbalial/CBAP_Library-Management-System-for-Stanford)
+
 **Description:** Stanford University's current manual library system is inefficient and time-consuming, leading to challenges in managing a vast collection of books and providing timely services to students. The university seeks to automate library operations through a Library Management System (LMS) to improve efficiency, accuracy, and accessibility.
 
 ---
@@ -124,7 +124,7 @@ I am a highly motivated Analyst with 5+ years of experience in various aspects o
 ### **Software Development:**
 - Understanding of software development cycles
 - Agile Methodology
-- 
+  
 ### **Project Management:**                                                                                       
 - Strong stakeholder management                                                                                    
 - Report creation                                                                                                  
