@@ -2,7 +2,7 @@
 
 
 
-<img src="#" alt="Professional Headshot" style="float: left; margin-right: 20px;" /> <!-- Replace '#' with the actual path to your image -->
+<img src="Images2/My_image2.jpg" style="float: left; margin-right: 20px;" /> <!-- Replace '#' with the actual path to your image -->
 
 
 
