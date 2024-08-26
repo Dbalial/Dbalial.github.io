@@ -28,7 +28,7 @@ I am a highly motivated Analyst with 5+ years of experience in various aspects o
 
 * **MBA**,
 - Marketing     2013 -2015
--Institute - Eastern Institute For Integrated Learning In Management
+- Institute - Eastern Institute For Integrated Learning In Management
 
 * **B.Sc**,
 - Economics    2009-2012
@@ -41,61 +41,57 @@ I am a highly motivated Analyst with 5+ years of experience in various aspects o
 
 # **CHASE LIFESTYLE PRIVARE LIMITED** 
 (June,2022 - May,2024)
-## Project 1 - Fulfilled by Styli:
-
-* **Description:** Led a cross-functional team of 12 people to successfully introduce the "Miss Chase" brand in a new region through a dropship model.
-* **Key Achievements:**
--- Served as the primary point of contact for requirement gathering and stakeholder communication.
--- Conducted in-depth market research and presented valuable insights to management.
--- Negotiated contracts and successfully launched the brand in the MENA region.
--- Generated INR 6.5L in revenue during the first month of launch.
-
- ## Project 2 - Nykaa Fashion Sales Analysis:
-
-* **Description:** Conducted a comprehensive analysis of Nykaa Fashion's sales processes, marketing spend, pricing strategy, and visibility.
-* **Improvements Implemented:**
-- Streamlined the cataloging process to reduce delays.
-- Implemented a marketing spend based on sales to ensure efficient budget allocation.
-- Enhanced brand visibility through stronger relationships with Nykaa Fashion's point of contact.
-- Reduced order processing SLA breaches by 20%.
-- Established three Fulfillment Centers to improve delivery times based on sales data analysis.
-
-## Project 3 - Introduction of "Miss Chase A+" & "Life With Pockets":
-
-* **Description:** Served as the primary point of contact for contract negotiation and updates to introduce "Miss Chase A+" and "Life With Pockets" on Nykaa Fashion, Tata CLiQ, and ShoppersStop.
   
-## Project 4 - Meesho:
+  ## Project 1 - Fulfilled by Styli:
+  * **Description:** Led a cross-functional team of 12 people to successfully introduce the "Miss Chase" brand in a new region through a dropship model.
+  * **Key Achievements:**
+      * Served as the primary point of contact for requirement gathering and stakeholder communication.
+      * Conducted in-depth market research and presented valuable insights to management.
+      * Negotiated contracts and successfully launched the brand in the MENA region.
+      * Generated INR 6.5L in revenue during the first month of launch.
 
-* **Description:** Conducted a detailed analysis of order reports to understand sales trends and forecasting.
-* **Key Achievements:**
-- Analyzed and optimized existing advertisement campaigns on Meesho.
-- Expanded the catalog by 700 items.
-- Introduced "Miss Chase" and "Dolce Crudo" on Meesho Mall.
-- Achieved a 7.5% increase in conversion rate and overall sales.
+   ## Project 2 - Nykaa Fashion Sales Analysis:
+  * **Description:** Conducted a comprehensive analysis of Nykaa Fashion's sales processes, marketing spend, pricing strategy, and visibility.
+  * **Improvements Implemented:**
+      * Streamlined the cataloging process to reduce delays.
+      * Implemented a marketing spend based on sales to ensure efficient budget allocation.
+      * Enhanced brand visibility through stronger relationships with Nykaa Fashion's point of contact.
+      * Reduced order processing SLA breaches by 20%.
+      * Established three Fulfillment Centers to improve delivery times based on sales data analysis.
 
-## Project 5 - Baazar Kolkata:
+  ## Project 3 - Introduction of "Miss Chase A+" & "Life With Pockets":
+  * **Description:** Served as the primary point of contact for contract negotiation and updates to introduce "Miss Chase A+" and "Life With Pockets" on Nykaa Fashion, Tata CLiQ, and ShoppersStop.
+  
+  ## Project 4 - Meesho:
+  * **Description:** Conducted a detailed analysis of order reports to understand sales trends and forecasting.
+  * **Key Achievements:**
+      * Analyzed and optimized existing advertisement campaigns on Meesho.
+      * Expanded the catalog by 700 items.
+      * Introduced "Miss Chase" and "Dolce Crudo" on Meesho Mall.
+      * Achieved a 7.5% increase in conversion rate and overall sales.
 
-* **Description:** Conducted an analysis of existing sales operations to identify areas for improvement.
-* **Key Achievements:**
-- Developed and implemented new Standard Operating Procedures (SOPs).
-- Successfully adopted the SOPs by over 20 team members.
+  ## Project 5 - Baazar Kolkata:
+  * **Description:** Conducted an analysis of existing sales operations to identify areas for improvement.
+  * **Key Achievements:**
+     * Developed and implemented new Standard Operating Procedures (SOPs).
+     * Successfully adopted the SOPs by over 20 team members.
 
 
 # **NETSCRIBES (INDIA) PRIVATE LIMITED** 
 (Feb,2019 to June,2022)
-## Project 1 - Flipkart UGC Moderation:
 
-* **Description:** Conducted a comprehensive audit of operations and deliverables.
-* **Key Achievements:** 
--- Increased quality standards of deliverables by 30%.
--- Improved operational efficiency by 20%.
-- 
+  ## Project 1 - Flipkart UGC Moderation:
+  * **Description:** Conducted a comprehensive audit of operations and deliverables.
+  * **Key Achievements:** 
+      * Increased quality standards of deliverables by 30%.
+      * Improved operational efficiency by 20%.
+
   ## Project 2 - Flipkart Research
   * **Description:**Conducted research on products, features, sellers, and pricing on Flipkart and Amazon websites.
-* **Purpose:** 
-- Identify opportunities to improve listing attributes.
-- Onboard new sellers.
-- Gain a competitive pricing edge over Amazon in terms of category-wise products.
+  * **Purpose:** 
+     * Identify opportunities to improve listing attributes.
+     * Onboard new sellers.
+     * Gain a competitive pricing edge over Amazon in terms of category-wise products.
 
 ---
 
@@ -115,10 +111,10 @@ I am a highly motivated Analyst with 5+ years of experience in various aspects o
 
 ### **Data Analysis and Visualization:**                                                                            
 - Python (with Pandas, NumPy, Matplotlib, Seaborn)                                                                  
- - SQL                                                                                                                
-  - Tableau
-   - Power BI
-    - Excel
+- SQL                                                                                                                
+- Tableau
+- Power BI
+- Excel
 
 ### **Software Development:**
 - Understanding of software development cycles
@@ -126,15 +122,16 @@ I am a highly motivated Analyst with 5+ years of experience in various aspects o
 - 
 ### **Project Management:**                                                                                       
 - Strong stakeholder management                                                                                    
- - Report creation                                                                                                  
-  - Requirement gathering                                                                                            
-   - Research
-    - Scrum
+- Report creation                                                                                                  
+- Requirement gathering                                                                                            
+- Research
+- Scrum
 
  ### **Technical Proficiency:**
 - Google G-Suite
-  - Microsoft Office
-   - Jira
+- Microsoft Office
+- Jira
+  
 ### **Time Management:**
 
 - Efficiently managing time and meeting tight deadlines
