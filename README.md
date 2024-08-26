@@ -5,7 +5,34 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Analyst Portfolio</title>
     <style>
-        /* Add some basic styling */
+       body {
+    background-color: #f4f4f4; /* Light grey background */
+    color: #333; /* Dark grey text */
+    line-height: 1.6; /* Improved readability */
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3 {
+    color: #0056b3; /* Blue headings */
+}
+
+a {
+    color: #0056b3; /* Blue links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline; /* Underline links on hover */
+}
+
+p {
+    margin: 10px 0; /* Add margin to paragraphs */
+}
+
+img {
+    border-radius: 5px; /* Slightly rounded corners for images */
+}
         body {
             font-family: Arial, sans-serif;
         }
