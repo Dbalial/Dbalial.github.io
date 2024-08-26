@@ -11,7 +11,7 @@
 * **<img src="Images2/Linkedin.png" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;"/>**  linkedin.com/in/Debojyoti-Balial
   
 * **<img src="Images2/github-mark.png" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;"/>**  github.com/Dbalial
-* 
+  
 * **<img src="Images2/website.jfif" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;"/>**  Dbalial.github.io
   
 * **<img src="Images2/LOcation.jfif" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;"/>**  Kolkata, West Bengal
@@ -37,18 +37,63 @@ Institute - Eastern Institute For Integrated Learning In Management
 
 ## **Work Experience**
 
-* **CHASE LIFESTYLE PRIVARE LIMITED**
-  -Project 1 - Fulfilled by Styli: Led a cross-functional team of 12 people to introduce the largest brand "Miss Chase" in a new region via dropship model. Acted as the main point of contact for requirement gathering, stakeholder communication. Conducted research on the marketplace and presented insights to the management. Based on insights, contract negotiation and final introduction happened. As a result, a new channel opened in the MENA region and in the first month after introduction, INR 6.5L revenue was generated.
-  -Project 2 - Nykaa Fashion Sales Analysis: Gone through the current process of listing, budget for marketing spend, pricing strtegy and visbility. Based on that found areas to improve like -
-      -- (a) There was a delay in delay in cataloging and listing. Streamlined the cataloging process.
-      -- (b) Introduced the marketing spend based on sales as a result while the marketing becomes regulatirized, the budget getiing allocated more proportionately.
-      -- (c) By maintaing good relationship with Nykaa Fashion's POC we pushed even more visisbuilty for our styles.
-      -- (d) Order processing SLA-breached done down by 20%.
-      -- (e) Based on the sales data analysis, introduced 3 Fulfilled Centers to decrease down the delivery time.
-  -Project - 3 - Introduction of "Miss Chase A+" & "Life With Pockets": Acted as the main POC for negotiation on contracts, update of contracts to introduce these 2 brands in Nykaa Fashion, Tata CLiQ, ShoppersStop
-  -Project 4 - Meesho: Done - (a) detailed analysis of order reports to understand the trend and forecasting of sales
-                              (b) analysis converion rate of the existing advertiement campaigns in Meesho
-                              (c) 
+# **CHASE LIFESTYLE PRIVARE LIMITED** (June,2022 - May,2024)
+
+## Project 1 - Fulfilled by Styli:
+
+* **Description:** Led a cross-functional team of 12 people to successfully introduce the "Miss Chase" brand in a new region through a dropship model.
+* **Key Achievements:**
+- Served as the primary point of contact for requirement gathering and stakeholder communication.
+- Conducted in-depth market research and presented valuable insights to management.
+- Negotiated contracts and successfully launched the brand in the MENA region.
+- Generated INR 6.5L in revenue during the first month of launch.
+
+ ## Project 2 - Nykaa Fashion Sales Analysis:
+
+* **Description:** Conducted a comprehensive analysis of Nykaa Fashion's sales processes, marketing spend, pricing strategy, and visibility.
+* **Improvements Implemented:**
+- Streamlined the cataloging process to reduce delays.
+- Implemented a marketing spend based on sales to ensure efficient budget allocation.
+- Enhanced brand visibility through stronger relationships with Nykaa Fashion's point of contact.
+- Reduced order processing SLA breaches by 20%.
+- Established three Fulfillment Centers to improve delivery times based on sales data analysis.
+
+## Project 3 - Introduction of "Miss Chase A+" & "Life With Pockets":
+
+* **Description:** Served as the primary point of contact for contract negotiation and updates to introduce "Miss Chase A+" and "Life With Pockets" on Nykaa Fashion, Tata CLiQ, and ShoppersStop.
+  
+## Project 4 - Meesho:
+
+* **Description:** Conducted a detailed analysis of order reports to understand sales trends and forecasting.
+* **Key Achievements:**
+- Analyzed and optimized existing advertisement campaigns on Meesho.
+- Expanded the catalog by 700 items.
+- Introduced "Miss Chase" and "Dolce Crudo" on Meesho Mall.
+- Achieved a 7.5% increase in conversion rate and overall sales.
+
+## Project 5 - Baazar Kolkata:
+
+* **Description:** Conducted an analysis of existing sales operations to identify areas for improvement.
+* **Key Achievements:**
+- Developed and implemented new Standard Operating Procedures (SOPs).
+- Successfully adopted the SOPs by over 20 team members.
+
+
+# **NETSCRIBES (INDIA) PRIVATE LIMITED** (Feb,2019 to June,2022)
+
+## Project 1 - Flipkart UGC Moderation:
+
+* **Description:** Conducted a comprehensive audit of operations and deliverables.
+* **Key Achievements:** 
+- Increased quality standards of deliverables by 30%.
+- Improved operational efficiency by 20%.
+- 
+  ## Project 2 - Flipkart Research
+  * **Description:**Conducted research on products, features, sellers, and pricing on Flipkart and Amazon websites.
+* **Purpose:** 
+- Identify opportunities to improve listing attributes.
+- Onboard new sellers.
+- Gain a competitive pricing edge over Amazon in terms of category-wise products.
 
 ---
 
@@ -66,31 +111,25 @@ Institute - Eastern Institute For Integrated Learning In Management
 
 ## **Skills**
 
-### **Data Analysis and Visualization:**
+### **Data Analysis and Visualization:**                                                                            ### **Software Development:**
 
-- Python (with Pandas, NumPy, Matplotlib, Seaborn)
-- SQL
-- Tableau
-- Power BI
-- Excel
+- Python (with Pandas, NumPy, Matplotlib, Seaborn)                                                                  - Understanding of software development cycles
+ - SQL                                                                                                                - Agile Methodology
+  - Tableau
+   - Power BI
+    - Excel
 
-### **Software Development:**
 
-- Understanding of software development cycles
-- Agile Methodology
 
-### **Project Management:**
+### **Project Management:**                                                                                        ### **Technical Proficiency:**
 
-- Strong stakeholder management
-- Report creation
-- Requirement gathering
-- Research
-- Scrum
+- Strong stakeholder management                                                                                    - Google G-Suite
+ - Report creation                                                                                                  - Microsoft Office
+  - Requirement gathering                                                                                            - Jira
+   - Research
+    - Scrum
 
-### **Technical Proficiency:**
 
-- Google G-Suite
-- Jira
 
 ### **Time Management:**
 
