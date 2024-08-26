@@ -2,7 +2,7 @@
 
 
 
-<img src="Images2/My_image2.jpg" style="float: left; margin-right: 20px;" /> <!-- Replace '#' with the actual path to your image -->
+<img src="Images2/My_image2.jpg" style="float: left; margin-right: 20px;" />
 
 
 
@@ -105,43 +105,43 @@ I am a highly motivated Analyst with 5+ years. My expertise lies in requirement 
 ### Project 1: [Unilever Canteen Ordering System (CBAP)](https://github.com/Dbalial/CBAP_Canteen-Ordering-System-for-Unilever)
 
 **Description:** Unilever's current canteen system is inefficient, leading to long wait times, food wastage, and low employee satisfaction. The company seeks to implement a Canteen Ordering System to streamline the ordering process, reduce wait times, and improve employee satisfaction.
-**
+
 
 <img src="Images2/Stanford library.avif" style="float: left; margin-right: 5px;" />
 ### Project 2: [Library Management System for Stanford (CBAP)](https://github.com/Dbalial/CBAP_Library-Management-System-for-Stanford)
 
 **Description:** Stanford University's current manual library system is inefficient and time-consuming, leading to challenges in managing a vast collection of books and providing timely services to students. The university seeks to automate library operations through a Library Management System (LMS) to improve efficiency, accuracy, and accessibility.
-**
+
 
 <img src="Analysis Of Housing Price In Gurgaon/Gurgaon House Sales.png" style="float: left; margin-right: 5px;" />
 ### Project 3: [Gurgaon Housing Price Trends Analysis](Analysis Of Housing Price In Gurgaon)
 
 **Description:** This analysis aims to investigate how various features of houses, such as the number of bedrooms, bathrooms, waterfront presence, and house condition, impact the price rise of homes in Gurgaon over time. By analyzing these factors, we seek to provide valuable insights for real estate investors, pricing strategies, and understanding market trends.
-**
+
 
 <img src="India's Trade Analysis/Dashboard 1.png" style="float: left; margin-right: 5px;" />
 ### Project 4: [India's Trade Analysis](India's Trade Analysis)
 
 **Description:** This analysis aims to examine the evolution of India's trade relationships with its major trading partners from 1997 to 2022. By comparing India's export and import data, we seek to identify key trends, pattern of the country's trade performance over time. Additionally, a visual representation through a trade map will provide a geographic perspective on India's global trade connections.
-**
+
 
 <img src="Images2/Olympic.jfif" style="float: left; margin-right: 5px;" />
 ### Project 5: [Olympics Games Analysis](EDA On Olympics Games Dataset)
 
 **Description:** This analysis seeks to understand the historical trends, athlete achievements, and country performance in the Olympic Games. By examining data on participation, sports, and medal tallies, we aim to gain insights into the evolution of the Olympic movement.
-**
+
 
 <img src="Images2/Diwali2.jpg" style="float: left; margin-right: 5px;" />
 ### Project 6: [Diwali Sales Analysis](Diwali Sale Analysis)
 
 **Description:** This project aims to understand customer behavior and spending patterns during the Diwali festival by analyzing sales data. Key areas of focus include gender, age group, occupation, region, and product category. The analysis will provide insights into customer demographics, purchasing power, and sales distribution to support business strategies and marketing efforts.
-**
+
 
 <img src="Images2/Diwali2.jpg" style="float: left; margin-right: 5px;" />
 ### Project 7: [Air Quality Index (AQI) in India Dashboard](Air Quality Index (AQI) in India)
 
 **Description:** This dashboard provides real-time AQI data for Indian cities, enabling users to track air quality changes and identify pollution hotspots.
-**
+
 
 ---
 
