@@ -26,27 +26,29 @@ I am a highly motivated Analyst with 5+ years of experience in various aspects o
 
 ## **Education**
 
-* **MBA**, Marketing     2013 -2015
-Institute - Eastern Institute For Integrated Learning In Management
+* **MBA**,
+- Marketing     2013 -2015
+-Institute - Eastern Institute For Integrated Learning In Management
 
-* **B.Sc**, Economics    2009-2012
-  Intitute - Dinabandhu Andrews College
-  University - Calcutta University
+* **B.Sc**,
+- Economics    2009-2012
+- Institute - Dinabandhu Andrews College
+- University - Calcutta University
 
 ---
 
 ## **Work Experience**
 
-# **CHASE LIFESTYLE PRIVARE LIMITED** (June,2022 - May,2024)
-
+# **CHASE LIFESTYLE PRIVARE LIMITED** 
+(June,2022 - May,2024)
 ## Project 1 - Fulfilled by Styli:
 
 * **Description:** Led a cross-functional team of 12 people to successfully introduce the "Miss Chase" brand in a new region through a dropship model.
 * **Key Achievements:**
-- Served as the primary point of contact for requirement gathering and stakeholder communication.
-- Conducted in-depth market research and presented valuable insights to management.
-- Negotiated contracts and successfully launched the brand in the MENA region.
-- Generated INR 6.5L in revenue during the first month of launch.
+-- Served as the primary point of contact for requirement gathering and stakeholder communication.
+-- Conducted in-depth market research and presented valuable insights to management.
+-- Negotiated contracts and successfully launched the brand in the MENA region.
+-- Generated INR 6.5L in revenue during the first month of launch.
 
  ## Project 2 - Nykaa Fashion Sales Analysis:
 
@@ -79,14 +81,14 @@ Institute - Eastern Institute For Integrated Learning In Management
 - Successfully adopted the SOPs by over 20 team members.
 
 
-# **NETSCRIBES (INDIA) PRIVATE LIMITED** (Feb,2019 to June,2022)
-
+# **NETSCRIBES (INDIA) PRIVATE LIMITED** 
+(Feb,2019 to June,2022)
 ## Project 1 - Flipkart UGC Moderation:
 
 * **Description:** Conducted a comprehensive audit of operations and deliverables.
 * **Key Achievements:** 
-- Increased quality standards of deliverables by 30%.
-- Improved operational efficiency by 20%.
+-- Increased quality standards of deliverables by 30%.
+-- Improved operational efficiency by 20%.
 - 
   ## Project 2 - Flipkart Research
   * **Description:**Conducted research on products, features, sellers, and pricing on Flipkart and Amazon websites.
@@ -111,26 +113,28 @@ Institute - Eastern Institute For Integrated Learning In Management
 
 ## **Skills**
 
-### **Data Analysis and Visualization:**                                                                            ### **Software Development:**
-
-- Python (with Pandas, NumPy, Matplotlib, Seaborn)                                                                  - Understanding of software development cycles
- - SQL                                                                                                                - Agile Methodology
+### **Data Analysis and Visualization:**                                                                            
+- Python (with Pandas, NumPy, Matplotlib, Seaborn)                                                                  
+ - SQL                                                                                                                
   - Tableau
    - Power BI
     - Excel
 
-
-
-### **Project Management:**                                                                                        ### **Technical Proficiency:**
-
-- Strong stakeholder management                                                                                    - Google G-Suite
- - Report creation                                                                                                  - Microsoft Office
-  - Requirement gathering                                                                                            - Jira
+### **Software Development:**
+- Understanding of software development cycles
+- Agile Methodology
+- 
+### **Project Management:**                                                                                       
+- Strong stakeholder management                                                                                    
+ - Report creation                                                                                                  
+  - Requirement gathering                                                                                            
    - Research
     - Scrum
 
-
-
+ ### **Technical Proficiency:**
+- Google G-Suite
+  - Microsoft Office
+   - Jira
 ### **Time Management:**
 
 - Efficiently managing time and meeting tight deadlines
