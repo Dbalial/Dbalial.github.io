@@ -1,7 +1,7 @@
 title: Debojyoti Balial
 description: >
   <div style="text-align: left;">
-    <img src="/Images2/My_image2.jpg" alt="Professional Headshot" style="width: 80px; height: 80px; border-radius: 50%; margin-bottom: 20px;"/>
+    <img src="/Images2/My_image2.jpg" alt="Professional Headshot" style="width: 80px; height: 80px; border-radius: 50%; margin-bottom: 30px;"/>
   </div>
   <div style="text-align: left;">
 
@@ -24,6 +24,7 @@ description: >
       <img src="Images2/LOcation.jfif" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;"/> Kolkata, West Bengal
     </p>
   </div>
+
 
 show_download: true
 theme: jekyll-theme-minimal
