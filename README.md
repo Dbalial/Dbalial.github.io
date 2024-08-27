@@ -1,21 +1,3 @@
-**Welcome!**
-
----
-
-## **Contact**
-
-* **<img src="Images2/Phone Image.jpg" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;"/>**  9073395920
-  
-* **<img src="Images2/Linkedin.png" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;"/>**  [linkedin.com/in/Debojyoti-Balial](linkedin.com/in/Debojyoti-Balial)
-  
-* **<img src="Images2/github-mark.png" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;"/>**  [github.com/Dbalial](github.com/Dbalial)
-  
-* **<img src="Images2/website.jfif" style="width: 30px; height: 30px; vertical-align: middle; margin-left: 2px;"/>**  Dbalial.github.io
-  
-* **<img src="Images2/LOcation.jfif" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;"/>**  Kolkata, West Bengal
-
----
-
 ## **About Me**
 
 I am a highly motivated Analyst with 5+ years. My expertise lies in requirement gathering, stakeholder management, operation optimization, documentation, research, and trend analysis. Passionate about continuous learning and improvement, I am eager to leverage my skills in a challenging and collaborative environment.
