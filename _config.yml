@@ -1,16 +1,28 @@
 title: Debojyoti Balial
 logo: /Images2/My_image2.jpg
-description: ## **Contact**
+description: >
+  <div style="text-align: center;">
+    <img src="/Images2/My_image2.jpg" alt="Professional Headshot" style="width: 150px; height: 150px; border-radius: 50%;"/>
+  </div>
+  <div style="text-align: left; margin-top: 10px;">
+    ## **Contact**
 
-* **<img src="Images2/Phone Image.jpg" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;"/>**  9073395920
-  
-* **<img src="Images2/Linkedin.png" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;"/>**  [linkedin.com/in/Debojyoti-Balial](linkedin.com/in/Debojyoti-Balial)
-  
-* **<img src="Images2/github-mark.png" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;"/>**  [github.com/Dbalial](github.com/Dbalial)
-  
-* **<img src="Images2/website.jfif" style="width: 30px; height: 30px; vertical-align: middle; margin-left: 2px;"/>**  Dbalial.github.io
-  
-* **<img src="Images2/LOcation.jfif" style="width: 20px; height: 20px; vertical-align: middle; margin-left: 5px;"/>**  Kolkata, West Bengal
+    <p style="margin: 5px 0;">
+      <img src="Images2/Phone Image.jpg" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;"/> 9073395920
+    </p>
+    <p style="margin: 5px 0;">
+      <img src="Images2/Linkedin.png" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;"/> <a href="https://linkedin.com/in/Debojyoti-Balial" target="_blank">linkedin.com/in/Debojyoti-Balial</a>
+    </p>
+    <p style="margin: 5px 0;">
+      <img src="Images2/github-mark.png" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;"/> <a href="https://github.com/Dbalial" target="_blank">github.com/Dbalial</a>
+    </p>
+    <p style="margin: 5px 0;">
+      <img src="Images2/website.jfif" style="width: 30px; height: 30px; vertical-align: middle; margin-right: 2px;"/> <a href="https://Dbalial.github.io" target="_blank">Dbalial.github.io</a>
+    </p>
+    <p style="margin: 5px 0;">
+      <img src="Images2/LOcation.jfif" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;"/> Kolkata, West Bengal
+    </p>
+  </div>
 
 show_download: true
 theme: jekyll-theme-minimal
