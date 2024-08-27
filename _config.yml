@@ -1,3 +1,5 @@
 title: Debojyoti Balial
-show download: true
+logo: Images2/My_image2.jpg
+description: text below image
+show_download: true
 theme: jekyll-theme-minimal
