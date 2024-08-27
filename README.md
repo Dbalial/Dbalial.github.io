@@ -77,22 +77,21 @@ I am a highly motivated Analyst with 5+ years. My expertise lies in requirement 
 
 ## **Portfolio Projects** 
 
-<img src="Images2/Unilever Image.jfif" style="float: left; margin-right: 20px;" /> 
 ### Project 1: [Unilever Canteen Ordering System (CBAP)](https://github.com/Dbalial/CBAP_Canteen-Ordering-System-for-Unilever)
 
 **Description:** Unilever's current canteen system is inefficient, leading to long wait times, food wastage, and low employee satisfaction. The company seeks to implement a Canteen Ordering System to streamline the ordering process, reduce wait times, and improve employee satisfaction.
 
 
-<img src="Images2/Stanford library.avif" style="float: left; margin-right: 5px;" />
 ### Project 2: [Library Management System for Stanford (CBAP)](https://github.com/Dbalial/CBAP_Library-Management-System-for-Stanford)
 
 **Description:** Stanford University's current manual library system is inefficient and time-consuming, leading to challenges in managing a vast collection of books and providing timely services to students. The university seeks to automate library operations through a Library Management System (LMS) to improve efficiency, accuracy, and accessibility.
 
 
-<img src="Analysis Of Housing Price In Gurgaon/Gurgaon House Sales.png" style="float: left; margin-right: 5px;" />
 ### Project 3: [Gurgaon Housing Price Trends Analysis](Analysis Of Housing Price In Gurgaon)
 
 **Description:** This analysis aims to investigate how various features of houses, such as the number of bedrooms, bathrooms, waterfront presence, and house condition, impact the price rise of homes in Gurgaon over time. By analyzing these factors, we seek to provide valuable insights for real estate investors, pricing strategies, and understanding market trends.
+
+![Gurgaon Housing Price Trends Analysis](/Analysis Of Housing Price In Gurgaon/Gurgaon House Sales.png)
 
 
 <img src="India's Trade Analysis/Dashboard 1.png" style="float: left; margin-right: 5px;" />
@@ -141,7 +140,7 @@ I am a highly motivated Analyst with 5+ years. My expertise lies in requirement 
 - Research
 - Scrum
 
- ### **Technical Proficiency:**
+### **Technical Proficiency:**
 - Google G-Suite
 - Microsoft Office
 - Jira
