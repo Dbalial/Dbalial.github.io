@@ -1,27 +1,26 @@
 title: Debojyoti Balial
 description: >
-  <div style="text-align: center;">
-    <img src="/Images2/My_image2.jpg" alt="Professional Headshot" style="width: 100px; height: 100px; border-radius: 50%;"/>
+  <div style="text-align: left;">
+    <img src="/Images2/My_image2.jpg" alt="Professional Headshot" style="width: 80px; height: 80px; border-radius: 50%; margin-bottom: 20px;"/>
   </div>
-  <div style="text-align: left; margin-top: 10px;">
+  <div style="text-align: left;">
 
-
-    <p style="margin: 5px 0;">
+    <p style="margin: 10px 0;">
       <img src="Images2/Phone Image.jpg" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;"/> 9073395920
     </p>
-    <p style="margin: 5px 0;">
-      <img src="Images2/mail.jpg" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;"/> <a href="https://dbalial@yahoo.com" target="_blank">dbalial@yahoo.com</a>
+    <p style="margin: 10px 0;">
+      <img src="Images2/mail.jpg" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;"/> <a href="mailto:dbalial@yahoo.com">dbalial@yahoo.com</a>
     </p>
-    <p style="margin: 5px 0;">
+    <p style="margin: 10px 0;">
       <img src="Images2/Linkedin.png" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;"/> <a href="https://linkedin.com/in/Debojyoti-Balial" target="_blank">linkedin.com/in/Debojyoti-Balial</a>
     </p>
-    <p style="margin: 5px 0;">
+    <p style="margin: 10px 0;">
       <img src="Images2/github-mark.png" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;"/> <a href="https://github.com/Dbalial" target="_blank">github.com/Dbalial</a>
     </p>
-    <p style="margin: 5px 0;">
-      <img src="Images2/website.jfif" style="width: 30px; height: 30px; vertical-align: middle; margin-right: 2px;"/> <a href="https://Dbalial.github.io" target="_blank">Dbalial.github.io</a>
+    <p style="margin: 10px 0;">
+      <img src="Images2/website.jfif" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;"/> <a href="https://Dbalial.github.io" target="_blank">Dbalial.github.io</a>
     </p>
-    <p style="margin: 5px 0;">
+    <p style="margin: 10px 0;">
       <img src="Images2/LOcation.jfif" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;"/> Kolkata, West Bengal
     </p>
   </div>
