@@ -77,7 +77,7 @@ I am a highly motivated Analyst with 5+ years. My expertise lies in requirement 
 
 ## **Portfolio Projects** 
 
-### Project 1: [Fixed Deposit Creation System Project for ABC BANK (Capstone)](https://github.com/Dbalial/B.A.-Capstone_E-Fixed-Deposit)
+### Project 1: [Online Fixed Deposit Creation System for ABC BANK (Capstone)](https://github.com/Dbalial/B.A.-Capstone_E-Fixed-Deposit)
 
 **Description:** This project aims to enhance the efficiency and user experience of the online FD creation process through system redesign and data-driven insights.
 
@@ -114,24 +114,25 @@ I am a highly motivated Analyst with 5+ years. My expertise lies in requirement 
 
 ![Olympics Games Analysis](Images2/Olympic.jfif)
 
-### Project 6: [Diwali Sales Analysis](Diwali Sale Analysis)
+### Project 7: [Diwali Sales Analysis](Diwali Sale Analysis)
 
 **Description:** This project aims to understand customer behavior and spending patterns during the Diwali festival by analyzing sales data. Key areas of focus include gender, age group, occupation, region, and product category. The analysis will provide insights into customer demographics, purchasing power, and sales distribution to support business strategies and marketing efforts.
 
-![Diwali Sales Analysis](Diwali Sale Analysis)(Images2/Diwali2.jpg)
+![Diwali Sales Analysis](Images2/Diwali2.jpg)
 
 
 ### Project 8: [Air Quality Index (AQI) in India Dashboard](Air Quality Index (AQI) in India)
 
 **Description:** This dashboard provides real-time AQI data for Indian cities, enabling users to track air quality changes and identify pollution hotspots.
 
-![Air Quality Index (AQI) in India Dashboard]
+![Air Quality Index (AQI) in India Dashboard](Images2/AQL.PNG)
 
 ### Project 9: [Coffee Sales Dashboard](https://github.com/Dbalial/Business-Analysis-with-Excel---1))
 
 **Description:** This dashboard aims to provide a comprehensive understanding of coffee order trends by offering interactive visualizations and dynamic filtering capabilities. By analyzing data on order dates, product types, and sales metrics, businesses can gain valuable insights to optimize their coffee offerings and improve customer satisfaction.
 
 ![Coffee Sales Dashboard](cofee dashboard.PNG)
+
 ---
 
 ## **Skills**
