@@ -91,7 +91,7 @@ I am a highly motivated Analyst with 5+ years. My expertise lies in requirement 
 
 **Description:** This analysis aims to investigate how various features of houses, such as the number of bedrooms, bathrooms, waterfront presence, and house condition, impact the price rise of homes in Gurgaon over time. By analyzing these factors, we seek to provide valuable insights for real estate investors, pricing strategies, and understanding market trends.
 
-![Gurgaon Housing Price Trends Analysis](/Analysis Of Housing Price In Gurgaon/Gurgaon House Sales.png)
+![Gurgaon Housing Price Trends Analysis](Gurgaon House Sales (1).png)
 
 
 <img src="India's Trade Analysis/Dashboard 1.png" style="float: left; margin-right: 5px;" />
