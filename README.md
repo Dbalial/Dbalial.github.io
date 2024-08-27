@@ -77,49 +77,61 @@ I am a highly motivated Analyst with 5+ years. My expertise lies in requirement 
 
 ## **Portfolio Projects** 
 
-### Project 1: [Unilever Canteen Ordering System (CBAP)](https://github.com/Dbalial/CBAP_Canteen-Ordering-System-for-Unilever)
+### Project 1: [Fixed Deposit Creation System Project for ABC BANK (Capstone)](https://github.com/Dbalial/B.A.-Capstone_E-Fixed-Deposit)
+
+**Description:** This project aims to enhance the efficiency and user experience of the online FD creation process through system redesign and data-driven insights.
+
+![Fixed Deposit Creation System Project for ABC BANK (Capstone)](Images2/Fixed Deposit.jfif)
+
+### Project 2: [Unilever Canteen Ordering System (CBAP)](https://github.com/Dbalial/CBAP_Canteen-Ordering-System-for-Unilever)
 
 **Description:** Unilever's current canteen system is inefficient, leading to long wait times, food wastage, and low employee satisfaction. The company seeks to implement a Canteen Ordering System to streamline the ordering process, reduce wait times, and improve employee satisfaction.
 
-![Unilever Canteen Ordering System (CBAP)](Images2/Unilever Image.jfif)(https://github.com/Dbalial/CBAP_Canteen-Ordering-System-for-Unilever)
+![Unilever Canteen Ordering System (CBAP)](Images2/Unilever Image.jfif)
 
-### Project 2: [Library Management System for Stanford (CBAP)](https://github.com/Dbalial/CBAP_Library-Management-System-for-Stanford)
+### Project 3: [Library Management System for Stanford (CBAP)](https://github.com/Dbalial/CBAP_Library-Management-System-for-Stanford)
 
 **Description:** Stanford University's current manual library system is inefficient and time-consuming, leading to challenges in managing a vast collection of books and providing timely services to students. The university seeks to automate library operations through a Library Management System (LMS) to improve efficiency, accuracy, and accessibility.
 
-![Library Management System for Stanford (CBAP)](Images2/Stanford library.avif)(https://github.com/Dbalial/CBAP_Library-Management-System-for-Stanford)
+![Library Management System for Stanford (CBAP)](Images2/Stanford library.avif)
 
-### Project 3: [Gurgaon Housing Price Trends Analysis](Analysis Of Housing Price In Gurgaon)
+### Project 4: [Gurgaon Housing Price Trends Analysis](Analysis Of Housing Price In Gurgaon)
 
 **Description:** This analysis aims to investigate how various features of houses, such as the number of bedrooms, bathrooms, waterfront presence, and house condition, impact the price rise of homes in Gurgaon over time. By analyzing these factors, we seek to provide valuable insights for real estate investors, pricing strategies, and understanding market trends.
 
 ![Gurgaon Housing Price Trends Analysis](Gurgaon House Sales (1).png)
 
 
-### Project 4: [India's Trade Analysis](India's Trade Analysis)
+### Project 5: [India's Trade Analysis](India's Trade Analysis)
 
 **Description:** This analysis aims to examine the evolution of India's trade relationships with its major trading partners from 1997 to 2022. By comparing India's export and import data, we seek to identify key trends, pattern of the country's trade performance over time. Additionally, a visual representation through a trade map will provide a geographic perspective on India's global trade connections.
 
 ![India's Trade Analysis](Dashboard 1.png)
 
-### Project 5: [Olympics Games Analysis](EDA On Olympics Games Dataset)
+### Project 6: [Olympics Games Analysis](EDA On Olympics Games Dataset)
 
 **Description:** This analysis seeks to understand the historical trends, athlete achievements, and country performance in the Olympic Games. By examining data on participation, sports, and medal tallies, we aim to gain insights into the evolution of the Olympic movement.
 
-![Olympics Games Analysis](EDA On Olympics Games Dataset)(Images2/Olympic.jfif)
+![Olympics Games Analysis](Images2/Olympic.jfif)
 
 ### Project 6: [Diwali Sales Analysis](Diwali Sale Analysis)
 
 **Description:** This project aims to understand customer behavior and spending patterns during the Diwali festival by analyzing sales data. Key areas of focus include gender, age group, occupation, region, and product category. The analysis will provide insights into customer demographics, purchasing power, and sales distribution to support business strategies and marketing efforts.
 
-![Diwali Sales Analysis](Diwali Sale Analysis)(Images2/Diwali.webp)
+![Diwali Sales Analysis](Diwali Sale Analysis)(Images2/Diwali2.jpg)
 
 
-### Project 7: [Air Quality Index (AQI) in India Dashboard](Air Quality Index (AQI) in India)
+### Project 8: [Air Quality Index (AQI) in India Dashboard](Air Quality Index (AQI) in India)
 
 **Description:** This dashboard provides real-time AQI data for Indian cities, enabling users to track air quality changes and identify pollution hotspots.
 
 ![Air Quality Index (AQI) in India Dashboard]
+
+### Project 9: [Coffee Sales Dashboard](https://github.com/Dbalial/Business-Analysis-with-Excel---1))
+
+**Description:** This dashboard aims to provide a comprehensive understanding of coffee order trends by offering interactive visualizations and dynamic filtering capabilities. By analyzing data on order dates, product types, and sales metrics, businesses can gain valuable insights to optimize their coffee offerings and improve customer satisfaction.
+
+![Coffee Sales Dashboard](cofee dashboard.PNG)
 ---
 
 ## **Skills**
