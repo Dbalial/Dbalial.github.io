@@ -1,6 +1,6 @@
 ## **About Me**
 
-I am a highly motivated Analyst with 5+ years. My expertise lies in requirement gathering, stakeholder management, operation optimization, documentation, research, and trend analysis. Passionate about continuous learning and improvement, I am eager to leverage my skills in a challenging and collaborative environment.
+I am a highly motivated Analyst with 5+ years of experience. My expertise lies in requirement gathering, stakeholder management, operation optimization, documentation, research, and trend analysis. Passionate about continuous learning and improvement, I am eager to leverage my skills in a challenging and collaborative environment.
 
 ---
 
@@ -95,39 +95,39 @@ I am a highly motivated Analyst with 5+ years. My expertise lies in requirement 
 
 ![Library Management System for Stanford (CBAP)](Images2/Stanford library.avif)
 
-### Project 4: [Gurgaon Housing Price Trends Analysis](Analysis Of Housing Price In Gurgaon)
+### Project 4: [Gurgaon Housing Price Trends Analysis (Tableau)](Analysis Of Housing Price In Gurgaon)
 
 **Description:** This analysis aims to investigate how various features of houses, such as the number of bedrooms, bathrooms, waterfront presence, and house condition, impact the price rise of homes in Gurgaon over time. By analyzing these factors, we seek to provide valuable insights for real estate investors, pricing strategies, and understanding market trends.
 
 ![Gurgaon Housing Price Trends Analysis](Gurgaon House Sales (1).png)
 
 
-### Project 5: [India's Trade Analysis](India's Trade Analysis)
+### Project 5: [India's Trade Analysis (Tableau)](India's Trade Analysis)
 
 **Description:** This analysis aims to examine the evolution of India's trade relationships with its major trading partners from 1997 to 2022. By comparing India's export and import data, we seek to identify key trends, pattern of the country's trade performance over time. Additionally, a visual representation through a trade map will provide a geographic perspective on India's global trade connections.
 
 ![India's Trade Analysis](Dashboard 1.png)
 
-### Project 6: [Olympics Games Analysis](EDA On Olympics Games Dataset)
+### Project 6: [Olympics Games Analysis (SQL)](EDA On Olympics Games Dataset)
 
 **Description:** This analysis seeks to understand the historical trends, athlete achievements, and country performance in the Olympic Games. By examining data on participation, sports, and medal tallies, we aim to gain insights into the evolution of the Olympic movement.
 
 ![Olympics Games Analysis](Images2/Olympic.jfif)
 
-### Project 7: [Diwali Sales Analysis](Diwali Sale Analysis)
+### Project 7: [Diwali Sales Analysis - EDA (Python)](Diwali Sale Analysis)
 
 **Description:** This project aims to understand customer behavior and spending patterns during the Diwali festival by analyzing sales data. Key areas of focus include gender, age group, occupation, region, and product category. The analysis will provide insights into customer demographics, purchasing power, and sales distribution to support business strategies and marketing efforts.
 
 ![Diwali Sales Analysis](Images2/Diwali2.jpg)
 
 
-### Project 8: [Air Quality Index (AQI) in India Dashboard](Air Quality Index (AQI) in India)
+### Project 8: [Air Quality Index (AQI) in India Dashboard (Power BI)](Air Quality Index (AQI) in India)
 
 **Description:** This dashboard provides real-time AQI data for Indian cities, enabling users to track air quality changes and identify pollution hotspots.
 
 ![Air Quality Index (AQI) in India Dashboard](Images2/AQL.PNG)
 
-### Project 9: [Coffee Sales Dashboard](https://github.com/Dbalial/Business-Analysis-with-Excel---1))
+### Project 9: [Coffee Sales Dashboard (MS-Excel)](https://github.com/Dbalial/Business-Analysis-with-Excel---1))
 
 **Description:** This dashboard aims to provide a comprehensive understanding of coffee order trends by offering interactive visualizations and dynamic filtering capabilities. By analyzing data on order dates, product types, and sales metrics, businesses can gain valuable insights to optimize their coffee offerings and improve customer satisfaction.
 
